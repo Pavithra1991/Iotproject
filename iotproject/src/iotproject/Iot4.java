@@ -3,7 +3,7 @@ package iotproject;
 public class Iot4 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		System.out.println("Iot 43");
 	}
 
